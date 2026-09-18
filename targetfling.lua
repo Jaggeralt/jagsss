@@ -11,20 +11,7 @@ local Mouse = player:GetMouse()
 -- ════════════════════════════════════════════════
 
 local TARGET_USERNAMES = {
-    "bandokenny", "zymkvx", "TheyCallMeRetro", "DosMilHoras",
-    "ANGELTATOYO", "iJuankY", "paranoid_x6lxp8za7x", "disantiesslove",
-    "512f6", "ATKMvt", "AxelithoG11", "petaIyn", "re6zy", "0uwy",
-    "Marchrain", "lucent1x", "TrustKiyo", "mysweetbabyval", "pi6kle",
-    "get_kaii", "StadCore", "RemainingScripts", "mxurad", "Dynacoc",
-    "boby6474763", "CountlessSpaghetti", "2bryyy", "baznaudemars",
-    "brnsinner", "swired_v", "xeoliao", "slarg", "PulseVibin",
-    "Cillharper", "OakFujii", "vainshedd", "hideyourtruths", "gwloomy",
-    "sushisaladd", "Alx_CruxAlx_Crux", "NotVulp", "AlxCrux", "Ghostlic",
-    "sakuraxw", "zvchyz", "0mdyy", "spectergabo", "drizzyaudemars",
-    "drizzysaudemars", "venciendolos", "SixDainou", "cuists",
-    "Revengefulbeing", "cynsreturn", "Tomevite2703", "geolocates",
-    "ahhmarwi", "aIoneinviet", "upsmyego", "Desilusionan", "SocietyIsNoob",
-}
+    "8trundrr"}
 
 -- ════════════════════════════════════════════════
 -- CONFIG
